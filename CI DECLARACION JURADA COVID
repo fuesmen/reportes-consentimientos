@@ -1,0 +1,133 @@
+<p><img alt="FUESMEN" src="http://172.22.144.46:8180/his/images/Cliente/reporte.jpg" style="height:298px; width:2371px" /></p>
+
+<h2 style="text-align:center">Declaraci&oacute;n Jurada de Salud</h2>
+
+<table border="1" cellpadding="3" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td>
+			<table border="0" cellpadding="3" cellspacing="3" style="width:100%">
+				<tbody>
+					<tr>
+						<td>Nombre:&nbsp;&amp;paciente2&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+						<td>N&deg; Turno:&nbsp;&amp;turnoid</td>
+					</tr>
+					<tr>
+						<td>DNI:&nbsp;&amp;documento</td>
+						<td>Fecha:&nbsp;&amp;fechaturno</td>
+					</tr>
+					<tr>
+						<td colspan="2">Pr&aacute;ctica a realizar: &amp;estudio</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="height:3px; width:100%">
+	<tbody>
+		<tr>
+			<td><span style="font-size:8px">&nbsp;</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="1" cellpadding="6" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>&iquest;PRESENTA ALGUNO DE LOS SIGUIENTES S&Iacute;NTOMAS DE&nbsp;COVID-19?</strong></p>
+
+			<table border="0" cellpadding="3" cellspacing="0" style="width:100%">
+				<tbody>
+					<tr>
+						<td style="vertical-align:top; width:31%">
+						<p><strong><span style="font-size:12px"><span style="font-family:arial,helvetica,sans-serif">Al menos uno de los siguientes s&iacute;ntomas:</span></span></strong><br />
+						<span style="font-size:12px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;- Temperatura de 37.5&deg;C o m&aacute;s</span></span><br />
+						<span style="font-size:12px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;- Tos<br />
+						&nbsp;- Dolor de garganta&nbsp;<br />
+						&nbsp;- Dificultad respiratoria&nbsp;<br />
+						&nbsp;- Falta de olfato o gusto</span></span></p>
+						</td>
+						<td style="vertical-align:top; width:34%">
+						<p><strong><span style="font-size:12px"><span style="font-family:arial,helvetica,sans-serif">O dos o m&aacute;s de los siguientes s&iacute;ntomas at&iacute;picos:</span></span></strong><br />
+						<span style="font-size:12px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;- Congesti&oacute;n nasal &ndash; secreci&oacute;n por nariz&nbsp;<br />
+						&nbsp;- Deterioro del sensorio<br />
+						&nbsp;- Diarrea &ndash; v&oacute;mitos<br />
+						&nbsp;- Dolores musculares&nbsp;<br />
+						&nbsp;- Conjuntivitis &ndash; inyecci&oacute;n conjuntival<br />
+						(ojo rojo)<br />
+						&nbsp;- Dolor de cabeza<br />
+						&nbsp;- Escalofr&iacute;os &ndash; baja temperatura corporal&nbsp;<br />
+						&nbsp;- Empeoramiento de enfermedades respiratorias preexistentes<br />
+						&nbsp;- Somnolencia en ni&ntilde;os</span></span><br />
+						&nbsp;</p>
+						</td>
+						<td style="vertical-align:top; width:34%">
+						<p><strong><span style="font-size:12px"><span style="font-family:arial,helvetica,sans-serif">O en los &uacute;ltimos 21 d&iacute;as:</span></span></strong><br />
+						<span style="font-size:12px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;- Contacto estrecho con caso confirmado o probable de COVID-19, o<br />
+						&nbsp;- Contacto estrecho con tramportistas con historial de viaje fuera de Mendoza; o<br />
+						&nbsp;- Vive, trabaja o concurre a instituci&oacute;n que experimenta brote; o&nbsp;<br />
+						&nbsp;- Tenga un historial de viaje fuera de Mendoza; o&nbsp;<br />
+						&nbsp;- Reside en zonas de transmisi&oacute;n en conglomerado</span></span></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table border="0" cellpadding="3" cellspacing="0" style="height:40px; width:70%">
+				<tbody>
+					<tr>
+						<td style="vertical-align:middle; width:70%"><strong>Encierre con un c&iacute;rculo su respuesta:</strong></td>
+						<td style="text-align:center; vertical-align:middle; width:15%"><strong>SI&nbsp;</strong></td>
+						<td style="text-align:center; vertical-align:middle; width:15%"><strong>NO</strong></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<strong>2 - DECLARACIONES Y FIRMAS DE LA DECLARACI&Oacute;N JURADA</strong><br />
+<span style="font-size:13px"><em>Si el paciente requiere acompa&ntilde;ante/s, las siguientes declaraciones aplican a paciente y acompa&ntilde;ante/s</em></span>
+
+<p>Declaro bajo juramento que a la fecha <strong>NO SOY PACIENTE CONFIRMADO DE COVID-19.</strong></p>
+
+<p>Declaro bajo juramento que a la fecha <strong>NO PRESENTO NINGUNO DE ESTOS S&Iacute;NTOMAS</strong>: fiebre (mayor/igual a 37,5&deg;C) y alguno de los siguientes s&iacute;ntomas: tos, dolor de garganta y/o dificultad respiratoria, diarrea, anosmia (dificultad en el olfato), as&iacute; como los dem&aacute;s s&iacute;ntomas y condiciones antes descriptas en este documento.</p>
+
+<p>Declaro bajo juramento conocer y comprender las obligaciones de aislamiento impuestas por las autoridades de la Rep&uacute;blica Argentina, y la normativa de la Provincia de Mendoza, bajo apercibimiento de recibir las sanciones legalmente dispuestas para el caso de falsedad de mi declaraci&oacute;n y/o incumplimiento de las medidas dispuestas.</p>
+
+<table border="1" cellpadding="3" cellspacing="0" style="width:100%">
+	<tbody>
+		<tr>
+			<td>Firma paciente, representante, familiar o tutor:&nbsp;<br />
+			<br />
+			&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;<br />
+			<br />
+			Aclaraci&oacute;n: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;<br />
+			<br />
+			DNI: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;<br />
+			<br />
+			Mendoza, &nbsp;&hellip;&hellip;. de &hellip;&hellip;&hellip;. De 20&hellip;&hellip;.</td>
+			<td>Firma de acompa&ntilde;ante del paciente<br />
+			<br />
+			&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;<br />
+			<br />
+			Aclaraci&oacute;n: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;<br />
+			<br />
+			DNI: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;<br />
+			<br />
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>En caso de menores de 13 a 17 a&ntilde;os inclusive. Asentimiento del padre, madre o tutor.</p>
+
+			<p><br />
+			Firma: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&nbsp; Aclaraci&oacute;n: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&nbsp; DNI: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
